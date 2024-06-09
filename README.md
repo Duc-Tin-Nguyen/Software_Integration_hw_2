@@ -13,3 +13,5 @@ A simple shopping application with CRUD operations.
 
 ```bash
 npm install
+
+...
